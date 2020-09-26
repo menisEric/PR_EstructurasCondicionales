@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prEstructuraMultiple\bin\Debug\prEstructuraMultiple.exe.config
+C:\Users\User\source\repos\prEstructuraMultiple\bin\Debug\prEstructuraMultiple.exe
+C:\Users\User\source\repos\prEstructuraMultiple\bin\Debug\prEstructuraMultiple.pdb
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.Form1.resources
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.Properties.Resources.resources
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.exe
+C:\Users\User\source\repos\prEstructuraMultiple\obj\Debug\prEstructuraMultiple.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\prEstructurasCondicionales2\bin\Debug\prEstructurasCondicionales2.exe.config
+C:\Users\User\source\repos\prEstructurasCondicionales2\bin\Debug\prEstructurasCondicionales2.exe
+C:\Users\User\source\repos\prEstructurasCondicionales2\bin\Debug\prEstructurasCondicionales2.pdb
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.Form1.resources
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.Properties.Resources.resources
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.exe
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.pdb
+C:\Users\User\source\repos\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.FormClimacs.resources

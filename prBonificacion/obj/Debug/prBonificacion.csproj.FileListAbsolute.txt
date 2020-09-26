@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prBonificacion\bin\Debug\prBonificacion.exe.config
+C:\Users\User\source\repos\prBonificacion\bin\Debug\prBonificacion.exe
+C:\Users\User\source\repos\prBonificacion\bin\Debug\prBonificacion.pdb
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.Form1.resources
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.Properties.Resources.resources
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.exe
+C:\Users\User\source\repos\prBonificacion\obj\Debug\prBonificacion.pdb
